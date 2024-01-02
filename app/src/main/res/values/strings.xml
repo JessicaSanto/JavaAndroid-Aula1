@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aula1</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+
+    <string name="hello">
+        Hello World!!
+    </string>
+</resources>
